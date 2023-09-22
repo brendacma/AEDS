@@ -35,8 +35,6 @@
         printf("obesidade morbida");
 
     }
-
-
-
+    
     return 0;
  }
