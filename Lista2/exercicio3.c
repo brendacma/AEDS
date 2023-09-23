@@ -1,3 +1,5 @@
+//Escreva um programa em C que leia um número inteiro e informe se este número é divisível por 2, por 5, por 10 ou se não divisível por nenhuma das opções anteriores
+
 #include <stdio.h>
 
 int main() {
