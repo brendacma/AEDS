@@ -1,3 +1,5 @@
+//Escreva um programa em C que leia um número inteiro e informe se este número é par ou ímpar. Considere zero como sendo um número par.
+
 #include <stdio.h>
 
 int main() {
