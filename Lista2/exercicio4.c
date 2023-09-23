@@ -1,3 +1,5 @@
+//Escreva um programa em C que leia o peso, em kg, e a altura, em m, de uma pessoa. Este programa deverá calcular o índice de massa corporal da pessoa e considerar a tabela.
+
 #include <stdio.h>
  int main () {
     float peso, altura, imc;
