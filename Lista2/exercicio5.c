@@ -1,3 +1,5 @@
+//Escreva um programa em C que leia três valores inteiros a, b e c, e imprima-os em ordem crescente.
+
 #include <stdio.h>
 
 int main () {
